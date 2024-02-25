@@ -52,3 +52,15 @@ print(f'{num1} * {num2} = {product}')
 # Function names: multiply (1, 9), get_num (4, 7, 8), float, (5)
 #     input (5), print(10)
 # Parameters: left, right (1); prompt (4)
+
+# Which are function names? Method names? Built-in?
+
+# Function names:
+# - say
+# print, built-in function
+# - input, built-in function
+# max, built-in function
+
+# Method names:
+# - upper, built-in method
+# - lower, built-in method
